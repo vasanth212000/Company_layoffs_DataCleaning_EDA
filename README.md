@@ -54,4 +54,4 @@ This project involves data cleaning and exploratory data analysis (EDA) for comp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Company_Layoffs_DataCleaning_EDA.git
+https://github.com/vasanth212000/Company_Layoffs_DataCleaning_EDA.git
